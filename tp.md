@@ -58,3 +58,20 @@ Ya que necesitamos visualizar números de dos dígitos se deben utilizar dos dis
 #### Mapas de Karnaugh de displays
 Se decide utilizar mapas de Karnaugh para obtener las expresiones mínimas para las entradas de los displays:
 ![Mapas de Karnaugh displays](karnaugh-displays.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\newpage 
+</div>
+
+#### Simulador de circuitos
+Se implementa el circuito en Falstad y se comprueba su correcto funcionamiento:
+[Ver diagrama en Falstad](https://tinyurl.com/273zrqsv)<br />
+![Simulador de circuitos](falstad.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\newpage 
+</div>
+
+#### Diagrama temporal
+Se comprueba mediante un diagrama temporal que la transición de estados sea correcta:<br />
+![Diagrama temporal](diagrama-temporal.png)
