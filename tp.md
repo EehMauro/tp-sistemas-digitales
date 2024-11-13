@@ -75,3 +75,27 @@ Se implementa el circuito en Falstad y se comprueba su correcto funcionamiento:
 #### Diagrama temporal
 Se comprueba mediante un diagrama temporal que la transición de estados sea correcta:<br />
 ![Diagrama temporal](diagrama-temporal.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\newpage 
+</div>
+
+#### Implemetación en Tinkercad
+Se implementa el circuito en Tinkercad:
+[Ver en Tinkercad](https://www.tinkercad.com/things/bWCQsWBWqhy-tp-final-sdigitales-i?sharecode=2RiqZlfTIq9cOMa1QcFSS3Z2ZqUFGHzuoZx1kqbJ07Q)
+![Tinkercad](tinkercad.png)
+
+Detalle de colores:
+- Conexiones TIERRA --> negro
+- Conexiones FUENTE --> rojo
+- Conexiones del decodificador al display --> blanco
+- Entradas al decodificador --> gris
+- JO = Q0' --> verde
+- KO = Q0 --> morado
+- Q1' --> rosa
+- Q1 --> amarillo 
+- J1 --> turquesa
+- K1 = K2 = J2 --> azul
+- Q2 --> marron
+- Q2' --> naranja
+- Otras entradas y las salidas de compuertas --> blanco
